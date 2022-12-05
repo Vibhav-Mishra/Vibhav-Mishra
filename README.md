@@ -25,7 +25,7 @@ JAVA Back-end Developer who loves to code and explore things on the internet, wi
 passion of learning and sharing knowledge. Strong in design and integration with intuitive 
 problem-solving skills & ability to translate business requirements into technical solutions.
 
-<a href="https://app.netlify.com/sites/vibhav-portfolio" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=MY PORTFOLIO&color=E30184&logo=Bath&BodyWorks&logoColor=FFFFFF&label=" alt="Bath&BodyWorks"/></a>
+<a href="https://https://vibhav-mishra.github.io/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=MY PORTFOLIO&color=E30184&logo=Bath&BodyWorks&logoColor=FFFFFF&label=" alt="Bath&BodyWorks"/></a>
 
 ---
 ## 👨🏻‍💻 Tech Stack
@@ -58,7 +58,7 @@ problem-solving skills & ability to translate business requirements into technic
 
 ## ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ!
 <p align="center">
-<a href="https://www.linkedin.com/in/vibhav-kumar-mishra-6315091b4/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn Logo"  /></a>  
+<a href="https://www.linkedin.com/in/vibhav-mishra-6315091b4/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn Logo"  /></a>  
  <a href="https://studio.youtube.com/channel/UCRjx0qTyDbsWQTPknwfYnoQ/editing/images" title="Youtube"><img src="https://img.shields.io/badge/Youtube-bd001b?style=for-the-badge&logo=youtube&logoColor=white"  alt="Youtube logo" /></a>
   <a href="mailto:apkavibhu@gmail.com" title="Write me an email"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="Gmail Icon" /></a>
 <a href="https://medium.com/@vibhav-mishra"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" title="Medium"><a>
