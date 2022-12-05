@@ -56,9 +56,10 @@ problem-solving skills & ability to translate business requirements into technic
 
 ---
 
-## ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ!
+## ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ! 
 <p align="center">
-<a href="https://www.linkedin.com/in/vibhav-mishra-6315091b4/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn Logo"  /></a>  
+<a href="https://www.linkedin.com/in/vibhav-mishra-6315091b4/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn Logo"  /></a>
+ <a href="https://docs.google.com/document/d/17TtRrUuCQS-_IjGCD_P9oHOuV_ak6su1A87NKDEnCmE/edit" title="MyResume"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="Resume Logo"  /></a>
  <a href="https://studio.youtube.com/channel/UCRjx0qTyDbsWQTPknwfYnoQ/editing/images" title="Youtube"><img src="https://img.shields.io/badge/Youtube-bd001b?style=for-the-badge&logo=youtube&logoColor=white"  alt="Youtube logo" /></a>
   <a href="mailto:apkavibhu@gmail.com" title="Write me an email"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="Gmail Icon" /></a>
 <a href="https://medium.com/@vibhav-mishra"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" title="Medium"><a>
@@ -68,7 +69,7 @@ problem-solving skills & ability to translate business requirements into technic
 
   ## :trophy: Recent GitHub Activity
   <br/>
-   <a href="https://github.com/Vibhav-Mishra"><img alt="Vibhav Mishra's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vibhav-Mishra&custom_title=Vibhav-Mishra's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/Vibhav-Mishra"><img alt="Vibhav-Mishra's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vibhav-Mishra&custom_title=Vibhav-Mishra's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
