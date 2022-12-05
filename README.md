@@ -25,7 +25,7 @@ JAVA Back-end Developer who loves to code and explore things on the internet, wi
 passion of learning and sharing knowledge. Strong in design and integration with intuitive 
 problem-solving skills & ability to translate business requirements into technical solutions.
 
-<a href="https://https://vibhav-mishra.github.io/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=MY PORTFOLIO&color=E30184&logo=Bath&BodyWorks&logoColor=FFFFFF&label=" alt="Bath&BodyWorks"/></a>
+<a href="https://https://Vibhav-Mishra.github.io/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=MY PORTFOLIO&color=E30184&logo=Bath&BodyWorks&logoColor=FFFFFF&label=" alt="Bath&BodyWorks"/></a>
 
 ---
 ## 👨🏻‍💻 Tech Stack
