@@ -34,8 +34,8 @@ problem-solving skills & ability to translate business requirements into technic
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-ED8B00?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJs](https://img.shields.io/badge/NodeJS-ED8B00?style=for-the-badge&logo=nodejs&logoColor=white)
-![ExpressJs](https://img.shields.io/badge/Express-ED8B00?style=for-the-badge&logo=express&logoColor=white)
+![NodeJs](https://img.shields.io/badge/Node-ED6B00?style=for-the-badge&logo=node&logoColor=white)
+![ExpressJs](https://img.shields.io/badge/Express-E48B00?style=for-the-badge&logo=express&logoColor=white)
 
 ### 🚀 Libraries & Frameworks
 <a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Spring&color=852100&label=" alt=""/></a>
