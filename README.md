@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h1 align="center"> Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">, ɪ'ᴍ Vibhav Kumar Mishra ! </h1>
 
 ## :sassy_man:  About me
-JAVA Back-end Developer who loves to code and explore things on the internet, with the 
+Full Stack Developer who loves to code and explore things on the internet, with the 
 passion of learning and sharing knowledge. Strong in design and integration with intuitive 
 problem-solving skills & ability to translate business requirements into technical solutions.
 
@@ -33,7 +33,9 @@ problem-solving skills & ability to translate business requirements into technic
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![NodeJs](https://img.shields.io/badge/NodeJS-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![ExpressJs](https://img.shields.io/badge/Express-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ### 🚀 Libraries & Frameworks
 <a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Spring&color=852100&label=" alt=""/></a>
